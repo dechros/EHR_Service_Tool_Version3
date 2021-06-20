@@ -1,0 +1,13 @@
+[ParamPageNamesAndShortcuts]
+ParamPageShortcut1= Parametreler,1
+[VarPageNamesAndShortcuts]
+VarPageShortcut1= Sensör Değeri,1
+[ParameterNames]
+Param1=Normal Çalışma Çıkışı Kapanma Süresi (ms)
+Param2=Alarm Durumunda Sirenin Çalışma Süresi (ms)
+Param3=Alarm Durumunda Lambanın Çalışma Süresi (ms)
+Param18=Anlık Parametre Değişimi (1:Açık 0:Kapalı)
+Param19=Parametreleri Kaydet (1:Kaydet)
+Param20=Default Değerlere Dön(1:Default)
+[VariableNames]
+Var1=Basınç Sensörü

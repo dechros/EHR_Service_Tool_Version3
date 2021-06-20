@@ -1,0 +1,47 @@
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe.config
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.pdb
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csprojAssemblyReference.cache
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.Properties.Resources.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csproj.GenerateResource.cache
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.exe
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.pdb
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.MainForm.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.ParametresForm.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SettingsForm.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.VariablesForm.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SplashScreen.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.License.resources
+D:\Work\Visual Studio 2019\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.About.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe.config
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.pdb
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csprojAssemblyReference.cache
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.About.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.License.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.MainForm.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.ParametresForm.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.Properties.Resources.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SettingsForm.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SplashScreen.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.VariablesForm.resources
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csproj.GenerateResource.cache
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csproj.CoreCompileInputs.cache
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.exe
+E:\Drive_OnurkeskinProjeler\Project Files\OKTAY ABI PROJELER\01-OTOMOTIV\PRJ_Service_Tool\C#\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.pdb
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe.config
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.exe
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\bin\Debug\EHR_ServiceTool_V3.pdb
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csprojAssemblyReference.cache
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.About.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.License.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.MainForm.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.ParametresForm.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.Properties.Resources.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SettingsForm.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.SplashScreen.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.VariablesForm.resources
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csproj.GenerateResource.cache
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.csproj.CoreCompileInputs.cache
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.exe
+E:\Customers\_templates\Service_Tool_Oktay\EHR_ServiceTool_V3\EHR_ServiceTool_V3\EHR_ServiceTool_V3\obj\Debug\EHR_ServiceTool_V3.pdb

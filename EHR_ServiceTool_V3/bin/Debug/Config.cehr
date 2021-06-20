@@ -1,0 +1,17 @@
+[ParamPageNamesAndShortcuts]
+ParamPageShortcut1= Girişler,1
+ParamPageShortcut2= Çıkışlar,2
+ParamPageShortcut3= Flaglar,3
+[VarPageNamesAndShortcuts]
+VarPageShortcut1= Sensör Değerleri,1
+[ParameterNames]
+Param1=Parameter1
+Param2=Param2
+Param3=Test3
+Param4=Special Parameter
+Param15=Random
+Param227=Something
+[VariableNames]
+Var1=Variable
+Var2=Değişken
+Var16=Var 16

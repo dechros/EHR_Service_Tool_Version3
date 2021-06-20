@@ -1,0 +1,14 @@
+[Shortcuts]
+ParameterShortcutPageNos=1,2,12,15
+VariableShortcutPageNos=2,4,5
+[ParameterNames]
+P1=Parameter1
+P2=Param2
+P3=Test3
+P4=Special Parameter   4
+P15=Random
+P227=Something
+[VariableNames]
+V1=Variable
+V2=Değişken
+V16=Var 16
