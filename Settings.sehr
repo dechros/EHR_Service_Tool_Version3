@@ -1,0 +1,17 @@
+[AppSettings]
+Language=tr
+HardwareType=0
+LastConfigFile=E:\Customers\Volkan_Eris\Ozbay_Otomasyon\Service_Tool\EFC39_Master_S08_V01_R00.cehr
+LastDataFile=E:\Customers\Ohm_Muhendislik\S003-V01-R00\Service_Tool\Factory_Calibration.dehr
+SelectedCPBaudrateIndex=5
+SelectedCANBaudrateIndex=3
+SelectedComportName=
+SelectedCANDeviceName=
+StartID=1024
+AppName=EHR Service Tool V3
+[InfoSection]
+Info1=Copyright(c) 2020, EHR Elektronik Hidrolik ve Otomasyon A.Ş.
+Info2=www.ehrelektronik.com
+Info3=All rigths reserved
+Info4=
+Info5=

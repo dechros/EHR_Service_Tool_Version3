@@ -1,0 +1,30 @@
+[ParamPageNamesAndShortcuts]
+ParamPageShortcut1= Sistem Parametreleri,1
+ParamPageShortcut2= Hareket1,2
+ParamPageShortcut3= Hareket2,3
+ParamPageShortcut2= Hareket3,4
+ParamPageShortcut3= Hareket4,5
+[VarPageNamesAndShortcuts]
+VarPageShortcut1= Hareket1 Joystick Değişkenleri,1
+VarPageShortcut1= Hareket2 Joystick Değişkenleri,2
+VarPageShortcut1= Hareket3 Joystick Değişkenleri,3
+VarPageShortcut1= Hareket4 Joystick Değişkenleri,4
+[ParameterNames]
+Param21=js_con1_mov1_ud_min_value
+Param22=js_con1_mov1_ud_min_alarm
+Param23=js_con1_mov1_ud_max_value
+Param24=js_con1_mov1_ud_max_alarm
+Param25=js_con1_mov1_ud_center_va
+Param26=js_con1_mov1_ud_center_de
+Param27=js_con1_mov1_ud_reverse
+Param31=js_con2_mov1_ud_min_value
+Param32=js_con2_mov1_ud_min_alarm
+Param33=js_con2_mov1_ud_max_value
+Param34=js_con2_mov1_ud_max_alarm
+Param35=js_con2_mov1_ud_center_va
+Param36=js_con2_mov1_ud_center_de
+Param37=js_con2_mov1_ud_reverse
+[VariableNames]
+Var1=Variable
+Var2=Değişken
+Var16=Var 16
